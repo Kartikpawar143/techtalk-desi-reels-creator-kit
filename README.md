@@ -16,7 +16,7 @@ This repository contains only the master prompt and the six individual skill ZIP
 | `terminal-skill-proper.zip` | Terminal custom skill for Claude |
 | `volt-skill-root.zip` | Volt custom skill for Claude |
 
-Each skill is provided as a separate ZIP file. Download the repository and you will have all six ZIP files individually. There are no pre-extracted skill folders, duplicate prompt files, or separate example files in this repository.
+Each skill is provided as a separate ZIP file. Download the repository and you will have all six ZIP files individually. 
 
 ## Complete workflow
 
@@ -26,7 +26,7 @@ Each skill is provided as a separate ZIP file. Download the repository and you w
 2. Open the Project's Sources and upload the `prompt.txt` file from this repository.
 3. Start a chat inside that Project.
 
-Use `prompt.txt` as the only source prompt. Do not upload a second copy of the prompt.
+Use `prompt.txt` as the only source prompt. 
 
 ### 2. Request a topic in ChatGPT
 
